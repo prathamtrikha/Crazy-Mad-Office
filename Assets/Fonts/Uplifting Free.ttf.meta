@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e4721bdee5935c545a52880fa207e5ed
+timeCreated: 1701956822
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Uplifting
+  fontNames:
+  - Uplifting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
