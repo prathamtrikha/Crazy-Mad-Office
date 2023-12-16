@@ -20,7 +20,7 @@ Available for Windows (32/64 bit) & Android
 
 ## How to get Executable File for Windows
 1. Open the URL 
-[https://ghostlyindie.itch.io/the-wallet](https://ghostlyindie.itch.io/crazy-mad-office)
+[https://ghostlyindie.itch.io/crazy-mad-office](https://ghostlyindie.itch.io/crazy-mad-office)
 2. Scroll Down on the page and download the game for your desired platform.
 3. Open file in the folder and Enjoy.
 
