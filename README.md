@@ -1,6 +1,6 @@
 # Crazy-Mad-Office
 Crazy-Mad-Office (CMO) is a short FPS gamer in which you as an employee have to collect your salary (Cash Points in-game), Collect the key, and escape. Meanwhile, there will be Guard trying to kill you, use Punch and Gun Weapons to defeat him.
-Platforms : Windows (32/64 bit) & Android
+## Platforms : Windows (32/64 bit) & Android
 
 
 ## How to Operate
