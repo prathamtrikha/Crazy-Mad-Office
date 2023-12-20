@@ -24,5 +24,6 @@ Available for Windows (32/64 bit) & Android
 2. Scroll Down on the page and download the game for your desired platform.
 3. Open file in the folder and Enjoy.
 
+Download Here - https://ghostlyindie.itch.io/crazy-mad-office
 
 Happy Playing !!!
